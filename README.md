@@ -19,7 +19,7 @@ Files included:
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clonegit clone [https://github.com/yourusername/house-price-prediction.git](https://github.com/mena-bkamel/House-Price-Prediction---Advanced-Regression.git
+   git clone https://github.com/mena-bkamel/House-Price-Prediction---Advanced-Regression.git
 )
 cd house-price-prediction
 
