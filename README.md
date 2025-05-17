@@ -88,6 +88,14 @@ cd house-price-prediction
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first.
 
+## 🔗 Contact
+### Created by: Mina Bebawy
+💼 [My Upwork Profile](https://www.upwork.com/freelancers/~01a15f0b82750ad98d)
+
+💼 [My Fiverr Profile](https://www.fiverr.com/mena_bebawy)
+
+📧 [E-mail](copperbox22@gmail.com)
+
 ## 📜 License  
 [MIT](https://opensource.org/licenses/MIT)
 
